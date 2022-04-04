@@ -1,0 +1,5 @@
+# Setup docker
+# Setup the backend image
+# setup the frontend image
+# Setup docker compose
+# Setup a mongodb image
